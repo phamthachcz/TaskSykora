@@ -70,11 +70,7 @@ public class PrimesTest {
 		lst.add(89);
 		
 		assertEquals(3, Primes.checkPrimes(lst, false).size());
-		
-		
-		
-		
-		
+	
 	}
 	
 	@Test
